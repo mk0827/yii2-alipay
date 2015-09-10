@@ -1,6 +1,6 @@
 <?php
 
-namespace leyestd\alipay;
+namespace mkui\alipay;
 
 /* *
  * 配置文件

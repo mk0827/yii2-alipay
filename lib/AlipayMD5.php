@@ -1,5 +1,5 @@
 <?php
-namespace leyestd\alipay\lib;
+namespace mkui\alipay\lib;
 /* *
  * MD5
  * 详细：MD5加密

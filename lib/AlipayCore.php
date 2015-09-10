@@ -1,6 +1,6 @@
 <?php
 
-namespace leyestd\alipay\lib;
+namespace mkui\alipay\lib;
 
 use Yii;
 /* *

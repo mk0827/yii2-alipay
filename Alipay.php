@@ -1,7 +1,7 @@
 <?php
-namespace leyestd\alipay;
+namespace mkui\alipay;
 
-use leyestd\alipay\Aliconfig;
+use mkui\alipay\Aliconfig;
 
 /* *
  * 功能：纯担保交易接口接入页

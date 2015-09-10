@@ -1,8 +1,8 @@
 <?php
-namespace leyestd\alipay\lib;
+namespace mkui\alipay\lib;
 
-use leyestd\alipay\lib\AlipayCore;
-use leyestd\alipay\lib\AlipayMD5;
+use mkui\alipay\lib\AlipayCore;
+use mkui\alipay\lib\AlipayMD5;
 /* *
  * 类名：AlipayNotify
  * 功能：支付宝通知处理类
